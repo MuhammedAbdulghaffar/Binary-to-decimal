@@ -1,1 +1,1 @@
-# Binari-to-decimal
+# Binary-to-decimal
